@@ -1,0 +1,1 @@
+This will test whether or not my program successfully compresses and decompresses a file
