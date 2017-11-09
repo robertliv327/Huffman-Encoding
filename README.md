@@ -1,6 +1,6 @@
 # Huffman-Encoder
 
-This program compresses and decompresses files according to Huffman Encoding. Unlike ASCII which uses 7 bits to encode each letter, Huffman Encoding uses variable-length codes; the words that have the highest frequency in the file use fewer bits. This implementation makes use of trees, maps, and priority queues.
+This program compresses and decompresses files according to Huffman Encoding. Unlike ASCII which uses 7 bits to encode each character, Huffman Encoding uses variable-length codes; the characters that have the highest frequency in the file use fewer bits. This implementation makes use of trees, maps, and priority queues.
 
 ## Files
 
